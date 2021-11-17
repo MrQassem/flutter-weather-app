@@ -1,6 +1,6 @@
 # Flutter Weather App
 
-A weather app that shows the usage of external APIs and the usage of google maps inside a flutter project. It has the feature of getting weathor information from any place in the world by picking the place from google map.
+A weather app that shows the usage of external APIs and the usage of google maps inside a flutter project. It has the feature of getting weather information from any place in the world by picking the place from google map.
 
 ## Getting Started
 
